@@ -10,6 +10,7 @@ public class BootdemoApplication {
 		SpringApplication.run(BootdemoApplication.class, args);
 		System.out.println("hello spring");
 		System.out.println("hello spring 123");
+		System.out.println("hello spring 123 for checking git pull");
 	}
 
 }
